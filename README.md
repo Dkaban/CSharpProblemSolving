@@ -1,6 +1,6 @@
 # CSharpProblemSolving
 
-#This is a repo to contain my C# problem solving code projects.
+This is a repo to contain my C# problem solving code projects.
 
 Descriptions for Code:
 
