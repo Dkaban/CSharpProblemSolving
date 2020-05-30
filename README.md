@@ -1,8 +1,8 @@
 # CSharpProblemSolving
 
-This is a repo to contain my C# problem solving code projects.
+##This is a repo to contain my C# problem solving code projects.
 
-Descriptions for Code:
+###Descriptions for Code:
 
 SockMerchant.cs
 "Complete the sockMerchant function in the editor below. It must return an integer representing the number of matching pairs of socks that are available."
